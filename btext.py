@@ -109,4 +109,4 @@ if uploaded_file:
                     st.error(f"Error during analysis: {e}")
 
 else:
-    st.info("Please upload a PDF document to start the analysis.")
+    st.info("built by dw - Please upload a PDF document to start the analysis.")
